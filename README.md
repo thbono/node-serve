@@ -6,6 +6,6 @@ Dockerfile example:
 
     FROM thbono/node-serve
 
-    COPY build .
+    COPY build /home/node
 
 Enjoy it!
